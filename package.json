@@ -4,6 +4,7 @@
   "dependencies": {
     "jquery": "3.2.1",
     "normalize.css": "7.0.0",
+    "smooth-scroll": "^16.0.0",
     "waypoints": "^4.0.1"
   },
   "devDependencies": {
